@@ -1,0 +1,78 @@
+v 20100214 2
+T 10250 125 15 6 1 0 0 1 1
+SHEET
+T 10800 125 8 8 1 1 0 4 1
+sheet-pagenum=0
+T 10950 125 15 6 1 0 0 1 1
+OF
+T 11250 125 8 8 1 1 0 4 1
+sheet-pagetot=0
+B 5400 250 5050 650 15 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
+T 5450 850 15 6 1 0 0 2 1
+TITLE:
+T 7900 550 8 28 1 1 0 4 1
+sheet-title=Title
+T 5450 1350 15 6 1 0 0 2 1
+PROJECT:
+B 5400 900 6000 500 15 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
+T 8400 1100 8 16 1 1 0 4 1
+sheet-project=Project
+T 5450 200 15 6 1 0 0 2 1
+FILE NAME:
+T 8400 50 8 10 1 1 0 3 1
+sheet-file=filename.sch
+B 5400 0 4750 250 15 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
+B 10150 0 1250 250 15 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
+T 10950 350 8 24 1 1 0 3 1
+sheet-revision=0
+T 10500 850 15 6 1 0 0 2 1
+REV:
+B 10450 250 950 650 15 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
+T 50 700 15 5 1 0 0 1 1
+DRAWN
+T 50 300 15 5 1 0 0 1 1
+PROTOTYPED
+T 50 100 15 5 1 0 0 1 1
+MFG APPR.
+T 50 500 15 5 1 0 0 1 1
+CHECKED
+B 0 0 5400 1000 15 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
+T 1350 900 15 5 1 0 0 4 1
+NAME
+T 2350 900 15 5 1 0 0 4 1
+DATE
+L 0 600 5400 600 15 0 0 0 -1 -1
+L 800 1000 800 0 15 0 0 0 -1 -1
+L 0 800 5400 800 15 0 0 0 -1 -1
+L 0 400 5400 400 15 0 0 0 -1 -1
+L 0 200 5400 200 15 0 0 0 -1 -1
+L 1900 1000 1900 0 15 0 0 0 -1 -1
+T 1350 700 8 7 1 1 0 4 1
+sheet-drawnby=John Doe
+T 2350 700 8 7 1 1 0 4 1
+sheet-drawndate=YYYY-MM-DD
+T 1350 500 8 7 1 1 0 4 1
+sheet-checkedby=~
+T 1350 300 8 7 1 1 0 4 1
+sheet-protoby=~
+T 1350 100 8 7 1 1 0 4 1
+sheet-mfgapprby=~
+T 2350 500 8 7 1 1 0 4 1
+sheet-checkeddate=~
+T 2350 300 8 7 1 1 0 4 1
+sheet-protodate=~
+T 2350 100 8 7 1 1 0 4 1
+sheet-mfgapprdate=~
+T 0 1150 8 10 0 0 0 0 1
+graphical=1
+L 2800 1000 2800 0 15 0 0 0 -1 -1
+T 2850 900 15 5 1 0 0 1 1
+COMMENT
+T 2850 700 8 7 1 1 0 1 1
+sheet-drawncomment=~
+T 2850 500 8 7 1 1 0 1 1
+sheet-checkedcomment=~
+T 2850 300 8 7 1 1 0 1 1
+sheet-protocomment=~
+T 2850 100 8 7 1 1 0 1 1
+sheet-mfgapprcomment=~

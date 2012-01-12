@@ -1,0 +1,63 @@
+v 20100214 2
+P 0 600 300 600 1 0 0
+{
+T 250 650 5 8 1 1 0 6 1
+pinnumber=1
+T 200 550 5 8 0 1 0 8 1
+pinseq=1
+T 350 600 9 8 0 1 0 0 1
+pinlabel=Terminal 1
+T 350 600 5 8 0 1 0 2 1
+pintype=pas
+}
+P 0 200 300 200 1 0 0
+{
+T 250 250 5 8 1 1 0 6 1
+pinnumber=2
+T 200 150 5 8 0 1 0 8 1
+pinseq=2
+T 350 200 9 8 0 1 0 0 1
+pinlabel=Terminal 2
+T 350 200 5 8 0 1 0 2 1
+pintype=pas
+}
+B 300 0 550 800 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
+T 850 850 8 10 1 1 0 6 1
+refdes=TB?
+T 300 3200 5 10 0 0 0 0 1
+device=282841-2
+T 300 1600 5 10 0 0 0 0 1
+author=Daniel Fekete <thefekete AT gmail DOT com>
+T 300 2800 5 10 0 0 0 0 1
+documentation=http://documents.tycoelectronics.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=282841&DocType=CD&DocLang=EN
+T 300 3000 5 10 0 0 0 0 1
+description=2 Wire Terminal Block
+T 300 2200 5 10 0 0 0 0 1
+numslots=0
+T 300 1200 5 10 0 0 0 0 1
+dist-license=GPL
+T 300 1400 5 10 0 0 0 0 1
+use-license=unlimited
+T 300 2000 5 10 0 0 0 0 1
+footprint=0
+V 500 200 125 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
+L 475 322 475 78 3 0 0 0 -1 -1
+L 525 322 525 78 3 0 0 0 -1 -1
+V 500 600 125 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
+L 475 722 475 478 3 0 0 0 -1 -1
+L 525 722 525 478 3 0 0 0 -1 -1
+L 700 800 700 0 3 0 0 0 -1 -1
+A 800 600 25 0 90 3 0 0 0 -1 -1
+A 750 600 25 90 90 3 0 0 0 -1 -1
+L 750 625 800 625 3 0 0 0 -1 -1
+A 750 600 25 180 90 3 0 0 0 -1 -1
+A 800 600 25 270 90 3 0 0 0 -1 -1
+L 800 575 750 575 3 0 0 0 -1 -1
+A 800 200 25 0 90 3 0 0 0 -1 -1
+A 750 200 25 90 90 3 0 0 0 -1 -1
+L 750 225 800 225 3 0 0 0 -1 -1
+A 750 200 25 180 90 3 0 0 0 -1 -1
+A 800 200 25 270 90 3 0 0 0 -1 -1
+L 800 175 750 175 3 0 0 0 -1 -1
+T 300 2600 5 10 0 0 0 0 1
+documentation=http://ecommas.tycoelectronics.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Catalog+Section%7F1308389_EUROSTYLE_TERMINAL_BLOCKS%7F0607%7Fpdf%7FEnglish%7FENG_CS_1308389_EUROSTYLE_TERMINAL_BLOCKS_0607.pdf
